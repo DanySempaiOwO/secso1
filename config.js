@@ -5,13 +5,13 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467'],
+  ['5493794382336'],
   ['5212411719888'],
   ['5212411453522'],
 ]
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['5493794382336'], 
 global.prems = [] 
 global.APIs = { 
   amel: 'https://melcanz.com',
